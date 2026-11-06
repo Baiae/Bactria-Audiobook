@@ -1,0 +1,6 @@
+{
+  "name": "Delphi to Oxus Audiobook",
+  "description": "An audiobook style reader for the chapters of From Delphi to the Oxus, featuring AI-generated narrations and text-to-speech.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
